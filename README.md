@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Что это?
+## 🎯 What is it?
 
 **Universal Bootstrap Creator** — is a graphical programme that allows you to quickly build a custom Python module installer. It helps you build a list of dependencies, save it to `requirements.txt` or generate a full `.py` installer that can be passed to anyone. Everything happens in a few clicks - as simple, convenient and beautiful as possible. 🤖⚡
 
